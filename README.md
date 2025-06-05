@@ -19,7 +19,7 @@ Logistic Regression: Employed to model the probability of heart failure occurren
 
 K means algorithm: cluster based on binary label 0 and 1 for death.
 
-# 3. Humanitarian Aid Allocation:
+# 2. Humanitarian Aid Allocation:
 
 Unsupervised Learning Algorithms:
 
