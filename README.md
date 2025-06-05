@@ -1,4 +1,4 @@
-# MachineLearningModels--Supervised-Unsupervised
+# MachineLearningModels-Supervised-Unsupervised
 Predicting heart failure outcomes using clinical data and clustering countries based on socio-economic indicators.
 
 This project integrates machine learning techniques to address critical challenges in healthcare and global development. It focuses on predicting heart failure outcomes using clinical data and clustering countries based on socio-economic indicators. By evaluating supervised learning models for healthcare predictions and applying unsupervised learning for country clustering, the project aims to enhance treatment strategies and optimize resource allocation in humanitarian efforts.
@@ -6,7 +6,7 @@ This project integrates machine learning techniques to address critical challeng
 1. Healthcare Predictive Analytics:
    
 Supervised Learning Algorithms:
-●Decision Trees: Utilized to create predictive models that segment patient data based on hierarchical decisions, providing insights into risk factors such as age, ejection fraction, and serum creatinine levels.
+● Decision Trees: Utilized to create predictive models that segment patient data based on hierarchical decisions, providing insights into risk factors such as age, ejection fraction, and serum creatinine levels.
 ●Support Vector Machines (SVM): Applied for classifying patients into survival groups based on complex decision boundaries derived from clinical features.
 ●K-Nearest Neighbors (KNN): Used to predict patient outcomes by comparing their features to those of similar patients in the dataset.
 ●Logistic Regression: Employed to model the probability of heart failure occurrence based on explanatory variables like age, sex, and medical history.
